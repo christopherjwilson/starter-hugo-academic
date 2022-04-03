@@ -18,9 +18,12 @@ bio: Experimental psychologist with interest in decision making, risk, attention
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+ - Financial Decision-making
+  - Attention to and perceptions of risk and related decision making
+  - Visual perception and attention
+  - Human factors in technology
+  - Behaviour in online environments
+  - Exploring the use of virtual environments as an experimental tool for examining cognitive and visual processes
 
 # Education to show in About widget
 education:
